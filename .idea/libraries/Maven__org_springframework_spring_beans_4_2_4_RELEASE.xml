@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-beans:4.2.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/repo/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

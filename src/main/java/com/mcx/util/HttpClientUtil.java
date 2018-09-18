@@ -65,17 +65,8 @@ public class HttpClientUtil {
 		return result;
 	}
 	public static void main(String[] args) {
-	    String url = "http://wthrcdn.etouch.cn/WeatherApi?city=%E5%8C%97%E4%BA%AC";  
-	    String charset = "utf-8";  
-	    HttpClientUtil httpClientUtil = new HttpClientUtil();  
-	    Map<String,String> createMap = new HashMap<String,String>();  
-	    String httpOrgCreateTestRtn = httpClientUtil.doPost(url,createMap,charset);
-	    XMLSerializer xmlSerializer = new XMLSerializer();
-	    xmlSerializer.setSkipWhitespace(false);
-	    JSON jsonObj = xmlSerializer.read(httpOrgCreateTestRtn);
-	   
-        System.out.println("result:"+httpOrgCreateTestRtn);  
-        System.out.println(jsonObj.toString());
-	    
+		String v = "6.12_dev";
+		System.out.println(Double.parseDouble(v.substring(0,v.indexOf("_"))) > 6.11);
+
 	}
 }
